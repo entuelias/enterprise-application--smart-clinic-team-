@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTjxUz4ocRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\SmartClinic\\src\\BuildingBlocks\\SmartClinic.BuildingBlocks.Messaging\\SmartClinic.BuildingBlocks.Messaging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
