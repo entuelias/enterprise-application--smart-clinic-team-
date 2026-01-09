@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/7AQ77KhVw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\SmartClinic\\src\\Modules\\PrescriptionManagement\\SmartClinic.PrescriptionManagement.Application\\SmartClinic.PrescriptionManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
